@@ -13,8 +13,9 @@ This project converts raw Spotify ranking data into a refined analytical dashboa
 
 ## **Core Functional Areas**
 
-### **1. Executive Overview**
-[Overview] (https://github.com/shaikamreen1610/Spotify_Power-Bi_Dashboard/blob/main/Spotify%20Dashboard/Spotify%20Overview%20Page.png)
+**1. Executive Overview**
+
+<img width="591" height="330" alt="Spotify Overview Page" src="https://github.com/user-attachments/assets/c1dbf9a2-167d-4a91-970c-bbce92074efa" />
 
 * Total Songs, Distinct Artists, Average Popularity, Average Duration
 * Explicit vs Non-Explicit performance comparison
@@ -23,7 +24,8 @@ This project converts raw Spotify ranking data into a refined analytical dashboa
 * Top-performing songs and artists
 
 ### **2. Artist Analytics**
-[Artist] (https://github.com/shaikamreen1610/Spotify_Power-Bi_Dashboard/blob/main/Spotify%20Dashboard/Spotify%20Artists%20Page.png)
+<img width="588" height="330" alt="Spotify Artists Page" src="https://github.com/user-attachments/assets/8c5ecf49-5b77-4586-b679-8938fd74f7fa" />
+
 
 * Popularity ranking of leading artists
 * Album-level contribution analysis
@@ -35,7 +37,8 @@ This project converts raw Spotify ranking data into a refined analytical dashboa
   * Duration metrics
 
 ### **3. Song Insights**
-[songs] (https://github.com/shaikamreen1610/Spotify_Power-Bi_Dashboard/blob/main/Spotify%20Dashboard/Spotify%20Songs%20Page.png)
+
+<img width="591" height="329" alt="Spotify Songs Page" src="https://github.com/user-attachments/assets/90d2d99d-74d9-41b9-9e43-2ca209252a1a" />
 
 * Popularity-based song ranking
 * Album vs Single comparison
